@@ -1,0 +1,6 @@
+#Command for install - pip install Package_name
+
+pandas
+sklearn
+requests
+io
